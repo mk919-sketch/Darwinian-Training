@@ -83,5 +83,3 @@ If you use this code, please cite the paper.
   year   = {2026}
 }
 ```
-
-Add the arXiv identifier and URL to this citation once the paper is available.
